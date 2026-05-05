@@ -48,11 +48,13 @@ marille_2,Marille 2cl,Schnaps,3.3
 obstler_2,Obstler 2cl,Schnaps,3.3
 haselnuss_2,Haselnuss 2cl,Schnaps,3.3
 meisterwurz_2,Meisterwurz 2cl,Schnaps,3.3
+whisky_2,Whisky 2cl,Schnaps,4
 birne_4,Birne 4cl,Schnaps,6.6
 marille_4,Marille 4cl,Schnaps,6.6
 obstler_4,Obstler 4cl,Schnaps,6.6
 haselnuss_4,Haselnuss 4cl,Schnaps,6.6
 meisterwurz_4,Meisterwurz 4cl,Schnaps,6.6
+whisky_4,Whisky 4cl,Schnaps,8
 jaegermeister,Jägermeister,Schnaps,3.3
 ruescherl,Rüscherl,Schnaps,3.3
 caffe,Kaffe,Heiß,3.6
@@ -67,6 +69,7 @@ kamillentee,Kamillen Tee,Heiß,3
 kraeutertee,Kräuter Tee,Heiß,3
 teewasser_05,Teewasser 0.5,Heiß,1.5
 teewasser_1,Teewasser 1l,Heiß,3
+gluehwein,Glühwein,Heiß,6.9
 landjaeger,Landjäger,Jause,8.8
 kaminwurze,Kaminwurze,Jause,8.8
 frankfurter,Frankfurter,Jause,7.8
@@ -76,6 +79,8 @@ kaesebrot,Käsebrot,Jause,7.8
 sktoast,Schinken-Käse-Toast,Jause,7.8
 ktoast,Käse-Toast,Jause,7.8
 weisswurst,Weißwurst,Jause,8.9
+wurstsalat,Wurstsalat,Jause,8.9
+butterbreze,Butterbreze,Jause,2.8
 nudelsu,Nudelsuppe,Suppen,6.9
 nudelsu_wuerstl,Nudelsuppe Würstl,Suppen,8.9
 backerbsensu,Backerbsensuppe,Suppen,6.9
@@ -158,3 +163,4 @@ spiegelei,Spiegelei,Extras,1.5
 port_apfelmus,Portion Apfelmus,Extras,2
 port_preisel,Portion Preiselbeeren,Extras,2
 port_sauce,Portion Sauce,Extras,1.5
+port_sauerkraut,Portion Sauerkraut,Extras,3.8
