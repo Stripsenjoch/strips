@@ -48,13 +48,13 @@ marille_2,Marille 2cl,Schnaps,3.3
 obstler_2,Obstler 2cl,Schnaps,3.3
 haselnuss_2,Haselnuss 2cl,Schnaps,3.3
 meisterwurz_2,Meisterwurz 2cl,Schnaps,3.3
-whisky_2,Whisky 2cl,Schnaps,4
+whisky_2,Whisky 2cl,Schnaps,4.5
 birne_4,Birne 4cl,Schnaps,6.6
 marille_4,Marille 4cl,Schnaps,6.6
 obstler_4,Obstler 4cl,Schnaps,6.6
 haselnuss_4,Haselnuss 4cl,Schnaps,6.6
 meisterwurz_4,Meisterwurz 4cl,Schnaps,6.6
-whisky_4,Whisky 4cl,Schnaps,8
+whisky_4,Whisky 4cl,Schnaps,9
 jaegermeister,Jägermeister,Schnaps,3.3
 ruescherl,Rüscherl,Schnaps,3.3
 caffe,Kaffe,Heiß,3.6
@@ -105,6 +105,7 @@ gulasch_nudeln,Gulasch Nudeln,Haupt.,17.8
 currywurst,Currywurst,Haupt.,13.5
 grillwu_pom,Grillwürstl Pommes,Haupt.,13.5
 grillwu_salat,Grillwürstl Salat,Haupt.,13.5
+frank_pommes,Frankfurter Pommes, Haupt.13.5
 spinatkn_salat,Spinatknödel Salat,Haupt.,13.5
 spinatkn_sauer,Spinatknödel Sauer,Haupt.,13.5
 speckkn_salat,Speckknödel Salat,Haupt.,13.5
