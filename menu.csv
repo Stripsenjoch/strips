@@ -1,4 +1,4 @@
- id,name,category,price
+id,name,category,price
 apfel_soda_05,Apfel Soda 0.5,Alkoholfrei,4.9
 apfel_soda_025,Apfel Soda 0.25,Alkoholfrei,3.7
 apfel_wasser_05,Apfel Wasser 0.5,Alkoholfrei,4.9
@@ -105,6 +105,7 @@ gulasch_knoedel,Gulasch Knödel,Haupt.,17.8
 gulasch_pommes,Gulasch Pommes,Haupt.,17.8
 gulasch_nudeln,Gulasch Nudeln,Haupt.,17.8
 currywurst,Currywurst,Haupt.,13.5
+schweinsbraten,Schweinsbraten,Haupt.,17.8
 grillwu_pom,Grillwürstl Pommes,Haupt.,13.5
 grillwu_salat,Grillwürstl Salat,Haupt.,13.5
 frank_pommes,Frankfurter Pommes, Haupt.,13.5
